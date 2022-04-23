@@ -1,9 +1,9 @@
 <div align="center">
 <!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> -->
-  Hi 👋 My name is D V Sai Sameer
-===============================
+  <h1> Hi 👋 My name is D V Sai Sameer </h1>
 
-💻 Web developer | 📖 Tech enthusiast
+
+## 💻 Web developer | 📖 Tech enthusiast
 -------------------------------------
 
   
