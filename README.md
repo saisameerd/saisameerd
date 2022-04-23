@@ -1,9 +1,16 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> -->
+  Hi 👋 My name is D V Sai Sameer
+===============================
+
+💻 Web developer | 📖 Tech enthusiast
+-------------------------------------
+
+  
 </div>  
   
 
-### <div align="center">I'm D V Sai Sameer , I am an undergraduate 🧑‍🎓 and a passionate learner who always willing to work across technologies💻.</div>  
+### <div align="center">I am an undergraduate 🧑‍🎓 and a passionate learner who always willing to work across technologies💻.</div>  
   
 
 - 🔭 I’m currently working on a MERN app [SEND-IT](https://github.com/saisameerd/SEND-IT)  
