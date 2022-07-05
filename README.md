@@ -12,8 +12,6 @@
 
 ### <div align="center">I am an undergraduate 🧑‍🎓 and a passionate learner who always willing to work across technologies💻.</div>  
   
-
-- 🔭 I’m currently working on a MERN app [SEND-IT](https://github.com/saisameerd/SEND-IT)  
   
 
 - 👯 I’m looking to collaborate on Open Source MERN Projects.  
